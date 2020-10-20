@@ -27,11 +27,11 @@
 - 🔭 I’m currently working at [deLaGuayaba](https://delaguayaba.com).
 - 🌱 I’m currently learning more about ServerSide technologies.
 - 👯 I share tech and dev content in NoScopeDevs youtube channel with my Friend [Marcos Sevilla](https://github.com/marcossevilla/marcossevilla).
-<!--- 🤔 I’m looking for help with VelocityX documentation. -->
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @ElianOrtegaNCA](https://twitter.com/ElianOrtegaNCA) , [Youtube - @NoScopeDevs](https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm also black belt in Taekwondo.
+<!--- 🤔 I’m looking for help with VelocityX documentation. -->
 
 [![Twitter: ElianOrtegaNCA](https://img.shields.io/twitter/follow/ElianOrtegaNCA?style=social)](https://twitter.com/ElianOrtegaNCA)
 [![LinkedIn: Elian Ortega](https://img.shields.io/badge/ElianOrtega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elian-ortega/)](https://www.linkedin.com/in/elian-ortega)
