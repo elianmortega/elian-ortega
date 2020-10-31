@@ -34,6 +34,8 @@
 
 <div align="center">
 
+<br/>
+<br/>
 
 <a href="https://twitter.com/ElianOrtegaNCA">
   <img align="left" alt="Elian's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
