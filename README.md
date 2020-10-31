@@ -2,6 +2,24 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=elian-ortega&label=Views&color=blue&style=plastic" alt="elian-ortega" /> </p> -->
 
+[![Twitter: ElianOrtegaNCA](https://img.shields.io/twitter/follow/ElianOrtegaNCA?style=social)](https://twitter.com/ElianOrtegaNCA)
+[![LinkedIn: Elian Ortega](https://img.shields.io/badge/ElianOrtega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elian-ortega/)](https://www.linkedin.com/in/elian-ortega)
+[![GitHub elian-ortega](https://img.shields.io/github/followers/elian-ortega?label=follow&style=social)](https://github.com/elian-ortega)
+
+
+<br/>
+<br/>
+
+- 🔭 I’m currently working at [deLaGuayaba](https://delaguayaba.com).
+- 🌱 I’m currently learning more about ServerSide technologies.
+- 👯 I share tech and dev content in NoScopeDevs youtube channel with my Friend [Marcos Sevilla](https://github.com/marcossevilla/marcossevilla).
+- 💬 Ask me about Flutter or any tech related stuff.
+- 📫 How to reach me: [Twitter - @ElianOrtegaNCA](https://twitter.com/ElianOrtegaNCA) , [Youtube - @NoScopeDevs](https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I'm also black belt in Taekwondo.
+<!--- 🤔 I’m looking for help with VelocityX documentation. -->
+
+
 <a href="https://twitter.com/ElianOrtegaNCA">
   <img align="left" alt="Elian's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,24 +36,6 @@
 <a href="https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ">
   <img align="left" alt="No Scope Devs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
-<br/>
-<br/>
-
-
-
-- 🔭 I’m currently working at [deLaGuayaba](https://delaguayaba.com).
-- 🌱 I’m currently learning more about ServerSide technologies.
-- 👯 I share tech and dev content in NoScopeDevs youtube channel with my Friend [Marcos Sevilla](https://github.com/marcossevilla/marcossevilla).
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @ElianOrtegaNCA](https://twitter.com/ElianOrtegaNCA) , [Youtube - @NoScopeDevs](https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm also black belt in Taekwondo.
-<!--- 🤔 I’m looking for help with VelocityX documentation. -->
-
-[![Twitter: ElianOrtegaNCA](https://img.shields.io/twitter/follow/ElianOrtegaNCA?style=social)](https://twitter.com/ElianOrtegaNCA)
-[![LinkedIn: Elian Ortega](https://img.shields.io/badge/ElianOrtega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elian-ortega/)](https://www.linkedin.com/in/elian-ortega)
-[![GitHub elian-ortega](https://img.shields.io/github/followers/elian-ortega?label=follow&style=social)](https://github.com/elian-ortega)
 
 
 **Languages and Tools:**  
