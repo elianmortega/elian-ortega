@@ -16,24 +16,6 @@
 - ⚡ Fun fact: I'm also black belt in Taekwondo.
 <!--- 🤔 I’m looking for help with VelocityX documentation. -->
 
-
-<a href="https://twitter.com/ElianOrtegaNCA">
-  <img align="left" alt="Elian's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/elian-ortega">
-  <img align="left" alt="Elian's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/elian-ortega">
-  <img align="left" alt="Elian's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://www.instagram.com/elian.ortega.nca/">
-  <img align="left" alt="Elian's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ">
-  <img align="left" alt="No Scope Devs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
 <br/>
 
 **Languages and Tools:**  
@@ -52,6 +34,22 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+
+<a href="https://twitter.com/ElianOrtegaNCA">
+  <img align="left" alt="Elian's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/elian-ortega">
+  <img align="left" alt="Elian's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/elian-ortega">
+  <img align="left" alt="Elian's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://www.instagram.com/elian.ortega.nca/">
+  <img align="left" alt="Elian's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ">
+  <img align="left" alt="No Scope Devs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 </div>
