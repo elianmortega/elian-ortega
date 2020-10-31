@@ -7,9 +7,6 @@
 [![GitHub elian-ortega](https://img.shields.io/github/followers/elian-ortega?label=follow&style=social)](https://github.com/elian-ortega)
 
 
-<br/>
-<br/>
-
 - 🔭 I’m currently working at [deLaGuayaba](https://delaguayaba.com).
 - 🌱 I’m currently learning more about ServerSide technologies.
 - 👯 I share tech and dev content in NoScopeDevs youtube channel with my Friend [Marcos Sevilla](https://github.com/marcossevilla/marcossevilla).
@@ -37,6 +34,7 @@
   <img align="left" alt="No Scope Devs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+<br/>
 
 **Languages and Tools:**  
 
