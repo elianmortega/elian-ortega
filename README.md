@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=elian-ortega&label=Views&color=blue&style=plastic" alt="elian-ortega" /> </p> -->
 
-[![Twitter: ElianOrtegaNCA](https://img.shields.io/twitter/follow/ElianOrtegaNCA?style=social)](https://twitter.com/ElianOrtegaNCA)
+[![Twitter: ElianMOrtega](https://img.shields.io/twitter/follow/ElianMOrtega?style=social)](https://twitter.com/ElianMOrtega)
 [![LinkedIn: Elian Ortega](https://img.shields.io/badge/ElianOrtega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elian-ortega/)](https://www.linkedin.com/in/elian-ortega)
 [![GitHub elian-ortega](https://img.shields.io/github/followers/elian-ortega?label=follow&style=social)](https://github.com/elian-ortega)
 
