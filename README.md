@@ -6,7 +6,7 @@
 [![LinkedIn: Elian Ortega](https://img.shields.io/badge/ElianOrtega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elian-ortega/)](https://www.linkedin.com/in/elian-ortega)
 [![GitHub elian-ortega](https://img.shields.io/github/followers/elian-ortega?label=follow&style=social)](https://github.com/elian-ortega)
 
-
+- 💡 If you want to get more Flutter examples (Clean Architecture, State Management, Riverpo, Internationalization, and more ) please check the organizations [NoScopeDevs](https://github.com/NoScopeDevs)
 - 🔭 I’m currently working at [deLaGuayaba](https://delaguayaba.com).
 - 🌱 I’m currently learning more about ServerSide technologies.
 - 👯 I share tech and dev content in NoScopeDevs youtube channel with my Friend [Marcos Sevilla](https://github.com/marcossevilla/marcossevilla).
