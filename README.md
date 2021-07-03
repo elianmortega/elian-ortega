@@ -4,7 +4,7 @@
 
 [![Twitter: ElianMOrtega](https://img.shields.io/twitter/follow/ElianMOrtega?style=social)](https://twitter.com/ElianMOrtega)
 [![LinkedIn: Elian Ortega](https://img.shields.io/badge/ElianOrtega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elian-ortega/)](https://www.linkedin.com/in/elian-ortega)
-[![GitHub elian-ortega](https://img.shields.io/github/followers/elian-ortega?label=follow&style=social)](https://github.com/elian-ortega)
+[![GitHub elianmortega](https://img.shields.io/github/followers/elianmortega?label=follow&style=social)](https://github.com/elianmortega)
 
 - 💡 If you want to get more Flutter examples (Clean Architecture, State Management, Riverpod, Internationalization, and more ) please check the organizations [NoScopeDevs](https://github.com/NoScopeDevs)
 - 🔭 I’m currently working at [deLaGuayaba](https://delaguayaba.com).
@@ -48,7 +48,7 @@
 <a href="https://www.linkedin.com/in/elian-ortega">
   <img align="left" alt="Elian's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/elian-ortega">
+<a href="https://github.com/elianmortega">
   <img align="left" alt="Elian's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
