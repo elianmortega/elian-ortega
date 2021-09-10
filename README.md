@@ -7,14 +7,13 @@
 [![GitHub elianmortega](https://img.shields.io/github/followers/elianmortega?label=follow&style=social)](https://github.com/elianmortega)
 
 - 💡 If you want to get more Flutter examples (Clean Architecture, State Management, Riverpod, Internationalization, and more ) please check the organizations [NoScopeDevs](https://github.com/NoScopeDevs)
-- 🔭 Fluttering at [Hypervolt](https://hypervolt.co.uk).
+- 🔭 Lead Mobile Engineer @ [Hypervolt UK](https://hypervolt.co.uk).
 - 🌱 I’m currently learning more about ServerSide technologies.
 - 👯 I share tech and dev content in NoScopeDevs youtube channel with my Friend [Marcos Sevilla](https://github.com/marcossevilla/marcossevilla).
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @ElianMOrtega](https://twitter.com/ElianMOrtega) , [Youtube - @NoScopeDevs](https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm also black belt in Taekwondo.
-<!--- 🤔 I’m looking for help with VelocityX documentation. -->
 
 <br/>
 
@@ -28,10 +27,6 @@
 <a href="https://github.com/elianmortega">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianmortega&theme=light&hide_langs_below=1" />
 </a>
-<!-- <a href="https://github.com/elian-ortega">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=elian-ortega&show_icons=true&theme=light&line_height=27" alt="Github Stats"/>
-</a> -->
-
 
 ## Github Stats
 
