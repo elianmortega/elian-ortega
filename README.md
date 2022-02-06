@@ -37,13 +37,13 @@
 <br/>
 <br/>
 
-<a href="https://twitter.com/ElianOrtegaNCA">
+<a href="https://twitter.com/ElianMOrtega">
   <img align="left" alt="Elian's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/elian-ortega">
+<a href="https://www.linkedin.com/in/elianortega">
   <img align="left" alt="Elian's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/elianmortega">
+<a href="https://github.com/elianortega">
   <img align="left" alt="Elian's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
