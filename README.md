@@ -2,9 +2,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=elian-ortega&label=Views&color=blue&style=plastic" alt="elian-ortega" /> </p> -->
 
-[![Twitter: ElianMOrtega](https://img.shields.io/twitter/follow/ElianMOrtega?style=social)](https://twitter.com/ElianMOrtega)
-[![LinkedIn: Elian Ortega](https://img.shields.io/badge/ElianOrtega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elian-ortega/)](https://www.linkedin.com/in/elian-ortega)
-[![GitHub elianmortega](https://img.shields.io/github/followers/elianmortega?label=follow&style=social)](https://github.com/elianmortega)
+[![Twitter: ElianMOrtega](https://img.shields.io/twitter/follow/ElianMOrtega?style=social)](https://www.elianortega.dev/twitter)
+[![LinkedIn: Elian Ortega](https://img.shields.io/badge/ElianOrtega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elian-ortega/)](https://www.elianortega.dev/linkedin)
+[![GitHub elianmortega](https://img.shields.io/github/followers/elianmortega?label=follow&style=social)](https://github.com/elianortega)
 
 - 💡 If you want to get more Flutter examples (Clean Architecture, State Management, Riverpod, Internationalization, and more ) please check the organizations [NoScopeDevs](https://github.com/NoScopeDevs)
 - 🔭 Lead Mobile Engineer @ [Hypervolt UK](https://hypervolt.co.uk).
