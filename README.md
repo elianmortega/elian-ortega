@@ -12,7 +12,7 @@
 - 👯 I share tech and dev content in NoScopeDevs youtube channel with my Friend [Marcos Sevilla](https://github.com/marcossevilla/marcossevilla).
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @ElianMOrtega](https://twitter.com/ElianMOrtega) , [Youtube - @NoScopeDevs](https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also black belt in Taekwondo.
 
 <br/>
