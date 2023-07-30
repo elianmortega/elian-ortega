@@ -4,7 +4,7 @@
 
 [![Twitter: ElianMOrtega](https://img.shields.io/twitter/follow/ElianMOrtega?style=social)](https://www.elianortega.dev/twitter)
 [![LinkedIn: Elian Ortega](https://img.shields.io/badge/ElianOrtega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elian-ortega/)](https://www.elianortega.dev/linkedin)
-[![GitHub elianmortega](https://img.shields.io/github/followers/elianmortega?label=follow&style=social)](https://github.com/elianortega)
+[![GitHub elianortega](https://img.shields.io/github/followers/elianortega?label=follow&style=social)](https://github.com/elianortega)
 
 - 💡 If you want to get more Flutter examples (Clean Architecture, State Management, Riverpod, Internationalization, and more ) please check the organizations [NoScopeDevs](https://github.com/NoScopeDevs)
 - 🔭 Lead Mobile Engineer @ [Hypervolt UK](https://hypervolt.co.uk).
@@ -30,7 +30,7 @@
 
 ## Github Stats
 
-[![Elian' Github Stats](https://github-readme-stats.vercel.app/api?username=elianortega&count_private=true&theme=default&show_icons=true)](https://github.com/elianmortega)
+[![Elian' Github Stats](https://github-readme-stats.vercel.app/api?username=elianortega&count_private=true&theme=default&show_icons=true)](https://github.com/elianortega)
 
 <div align="center">
 
