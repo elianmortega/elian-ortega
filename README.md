@@ -7,30 +7,31 @@
 [![GitHub elianortega](https://img.shields.io/github/followers/elianortega?label=follow&style=social)](https://github.com/elianortega)
 
 - 💡 If you want to get more Flutter examples (Clean Architecture, State Management, Riverpod, Internationalization, and more ) please check the organizations [NoScopeDevs](https://github.com/NoScopeDevs)
-- 🔭 Lead Mobile Engineer @ [Hypervolt UK](https://hypervolt.co.uk).
+- 🔭 Software Engineer @ [Somnio Software](https://somniosoftware.com).
 - 🌱 I’m currently learning more about ServerSide technologies.
 - 👯 I share tech and dev content in NoScopeDevs youtube channel with my Friend [Marcos Sevilla](https://github.com/marcossevilla/marcossevilla).
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @ElianMOrtega](https://twitter.com/ElianMOrtega) , [Youtube - @NoScopeDevs](https://www.youtube.com/channel/UCPz6bJ3DptMMXu7_hMb1oJQ)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm also black belt in Taekwondo.
+- 🥋️ Fun fact: I'm also black belt in Taekwondo.
 
 <br/>
 
-## Languages and Tools
+## Github Stats
+
+[![Elian' Github Stats](https://github-readme-stats.vercel.app/api?username=elianortega&count_private=true&theme=default&show_icons=true)](https://github.com/elianortega)
+
+## Favorite tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></code>
 
 <a href="https://github.com/elianortega">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianortega&theme=light&hide_langs_below=1" />
 </a>
 
-## Github Stats
 
-[![Elian' Github Stats](https://github-readme-stats.vercel.app/api?username=elianortega&count_private=true&theme=default&show_icons=true)](https://github.com/elianortega)
 
 <div align="center">
 
